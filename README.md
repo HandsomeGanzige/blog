@@ -4,4 +4,4 @@
 
 ## 笔记分类
 
-目前还没有笔记。新增笔记后，会在这里维护分类索引。
+- [Skills](notes/skills/README.md) — Agent Skill 的设计、实现与实践经验。
